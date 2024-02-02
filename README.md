@@ -47,5 +47,5 @@ Saúde Profissional
 
 ## Dashboard
 
-http://tinyurl.com/yjv65n5v
+http://tinyurl.com/3dsaenna
 
