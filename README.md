@@ -43,9 +43,3 @@ Saúde Profissional
 ## Autor
 
 - [@evertonenrico](https://www.github.com/evertonenrico)
-
-
-## Dashboard
-
-http://tinyurl.com/3dsaenna
-
