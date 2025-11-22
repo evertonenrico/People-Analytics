@@ -20,12 +20,16 @@ Power BI, MySQL, Pentaho Data Integration, Excel
 
 Contratações Gerais
 ![App Screenshot](https://i.ibb.co/qRWKnRQ/tela-001.png)
+
 Má Contratações
 ![App Screenshot](https://i.ibb.co/714rWFf/tela-002.png)
+
 Afastamentos
 ![App Screenshot](https://i.ibb.co/HT3yM9V/tela-003.png)
+
 Saúde Profissional
 ![App Screenshot](https://i.ibb.co/fH3HC5N/tela-004.png)
+
 
 
 ## Medidas utilizadas
